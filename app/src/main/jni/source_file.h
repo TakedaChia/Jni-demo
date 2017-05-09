@@ -1,0 +1,8 @@
+//
+// Created by Video on 2017/2/21.
+//
+
+#ifndef ANDROID_C_OBJECT_SOURCE_FILE_H
+#define ANDROID_C_OBJECT_SOURCE_FILE_H
+
+#endif //ANDROID_C_OBJECT_SOURCE_FILE_H
